@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Hola, soy [Tu Nombre] </h1>
 
-<!--
-**RogerGuevara555/RogerGuevara555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Soy un científico de datos apasionado por [tus áreas de interés]. Tengo experiencia en [habilidades técnicas] y he trabajado en proyectos como [nombres de proyectos].
+</p>
 
-Here are some ideas to get you started:
+<h2>Proyectos Destacados</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>
+    <h3>[Nombre del Proyecto 1]</h3>
+    <p>[Descripción breve del proyecto 1]</p>
+    <a href="[Enlace al proyecto 1]">Ver proyecto</a>
+  </li>
+  <li>
+    <h3>[Nombre del Proyecto 2]</h3>
+    <p>[Descripción breve del proyecto 2]</p>
+    <a href="[Enlace al proyecto 2]">Ver proyecto</a>
+  </li>
+</ul>
+
+<h2>Contacto</h2>
+
+<p>
+  Puedes encontrarme en [enlaces a tus redes sociales o portafolio]. ¡No dudes en contactarme!
+</p>
