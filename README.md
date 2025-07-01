@@ -25,6 +25,25 @@
       <b>Python</b>
     </td>
     <td align="center">
+      <img src="assets/pandas.svg" width="40" alt="Pandas"/><br>
+      <b>Pandas</b>
+    </td>
+    <td align="center">
+      <img src="assets/matplotlib.svg" width="40" alt="Matplotlib"/><br>
+      <b>Matplotlib</b>
+    </td>
+    <td align="center">
+      <img src="assets/seaborn.svg" width="40" alt="Seaborn"/><br>
+      <b>Seaborn</b>
+    </td>
+    <td align="center">
+      <img src="assets/numpy.svg" width="40" alt="Numpy"/><br>
+      <b>Numpy</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
       <img src="assets/sql.png" width="40" alt="SQL"/><br>
       <b>SQL</b>
     </td>
@@ -33,27 +52,8 @@
       <b>SQLite</b>
     </td>
     <td align="center">
-      <img src="assets/github.png" width="40" alt="GitHub"/><br>
-      <b>GitHub</b>
-    </td>
-    <td align="center">
-      <img src="assets/git.svg" width="40" alt="Git"/><br>
-      <b>Git</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="assets/matplotlib.svg" width="40" alt="Matplotlib"/><br>
-      <b>Matplotlib</b>
-    </td>
-    <td align="center">
-      <img src="assets/pandas.svg" width="40" alt="Pandas"/><br>
-      <b>Pandas</b>
-    </td>
-    <td align="center">
-      <img src="assets/numpy.svg" width="40" alt="Numpy"/><br>
-      <b>Numpy</b>
+      <img src="assets/powerbi.png" width="40" alt="PowerBi"/><br>
+      <b>PowerBi</b>
     </td>
     <td align="center">
       <img src="assets/scikitlearn.png" width="40" alt="ScikitLearn"/><br>
@@ -71,8 +71,12 @@
       <b>VSCode</b>
     </td>
     <td align="center">
-      <img src="assets/powerbi.png" width="40" alt="PowerBi"/><br>
-      <b>PowerBi</b>
+      <img src="assets/git.svg" width="40" alt="Git"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="assets/github.png" width="40" alt="GitHub"/><br>
+      <b>GitHub</b>
     </td>
     <td align="center"></td>
     <td align="center"></td>
@@ -80,6 +84,7 @@
   </tr>
   
 </table>
+
 
 
 
