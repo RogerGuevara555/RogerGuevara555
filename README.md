@@ -11,7 +11,7 @@
 
 <a href="https://github.com/RogerGuevara555/Proyectos-con-Python">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerGuevara555&repo=Proyectos-con-Python&theme=cobalt" alt="GitHub Stats" /><br>
-          <img src="assets/python.svg" width="30" alt="Python"/></img>
+          <img src="assets/python.png" width="25" alt="Python"/></img>
     	</a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/python.svg" width="40" alt="Python"/><br>
+      <img src="assets/python.png" width="40" alt="Python"/><br>
       <b>Python</b>
     </td>
     <td align="center">
@@ -29,11 +29,11 @@
       <b>SQL</b>
     </td>
     <td align="center">
-      <img src="assets/sqlite.svg" width="40" alt="SQLite"/><br>
+      <img src="assets/sqlite.png" width="40" alt="SQLite"/><br>
       <b>SQLite</b>
     </td>
     <td align="center">
-      <img src="assets/github.svg" width="40" alt="GitHub"/><br>
+      <img src="assets/github.png" width="40" alt="GitHub"/><br>
       <b>GitHub</b>
     </td>
     <td align="center">
@@ -56,22 +56,22 @@
       <b>Numpy</b>
     </td>
     <td align="center">
-      <img src="assets/scikit-learn.svg" width="40" alt="ScikitLearn"/><br>
+      <img src="assets/scikitlearn.png" width="40" alt="ScikitLearn"/><br>
       <b>ScikitLearn</b>
     </td>
     <td align="center">
-      <img src="assets/tensorflow.svg" width="40" alt="TensorFlow"/><br>
+      <img src="assets/tensorflow.png" width="40" alt="TensorFlow"/><br>
       <b>TensorFlow</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="assets/vscode.svg" width="40" alt="VSCode"/><br>
+      <img src="assets/vscode.png" width="40" alt="VSCode"/><br>
       <b>VSCode</b>
     </td>
     <td align="center">
-      <img src="assets/powerbi.svg" width="40" alt="PowerBi"/><br>
+      <img src="assets/powerbi.png" width="40" alt="PowerBi"/><br>
       <b>PowerBi</b>
     </td>
     <td align="center"></td>
